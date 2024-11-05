@@ -1,0 +1,1 @@
+pipenv install tensorflow==2.12.1
